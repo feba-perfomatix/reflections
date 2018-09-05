@@ -3,3 +3,9 @@ local?
 When multiple people aree working on same resource
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 you might not necessrily want to incorporate all the changes that are happening in git.you might actually want only a local copy inorder to customize the code for your private use 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: clone within git and has a reference to original repository you have cloned
+Clone:copies a repository generally to a local machine
+Branch:certain commits which you make experimentally can be sat into a branch and when succeeds you can add it to master
+
